@@ -1,7 +1,7 @@
-# Portfolio
+# IP3
 
-##### By Albert Byrone 
-### It is a description of my resume.
+##### By James Musembi
+### QUIZZ BOARD
 
 ## Table of Content
 
@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
+<p>This is project is illustrateQUIZZ board for students</p>
 
 ## Installation
 
