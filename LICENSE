@@ -1,48 +1,6 @@
-# IP3
-
-##### By James Musembi
-### QUIZZ BOARD
-
-## Table of Content
-
-+ [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
-
-## Description
-<p>This is project is illustrateQUIZZ board for students</p>
-
-[figma link](https://www.figma.com/file/Fe9WYIdbuwDDyolJ5CUJeR/quiz?node-id=0%3A1)
-![figma image](images)
-
-## Installation
-
-### Requirements
-
-* Either a computer,phone,tablet or an Ipad
-
-* An access to the Internet
-
-### Installation Process
-
-[Go Back to the top](#portfolio)
-## Technology Used
-* HTNL - which was used to build the structure of the pages.
-
-* CSS - which was used to style the pages incuding the left aside navigation bar
-
-## Reference
-* Materialize CSS
-
-
-## Licence
-
 MIT License
 
-Copyright (c) [2022] [James Musembi]
+Copyright (c) 2022 JamesMusembi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -61,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[Go Back to the top](#portfolio)
-
-## Authors Info
-
-Slack Profile - 
-
