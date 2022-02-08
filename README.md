@@ -16,7 +16,9 @@
 <p>This is project is illustrateQUIZZ board for students</p>
 
 [figma link](https://www.figma.com/file/Fe9WYIdbuwDDyolJ5CUJeR/quiz?node-id=0%3A1)
-<img src = "https://github.com/JamesMusembi/IP3/blob/master/image/fig.png" height=250" width = "250">
+
+
+<img src="https://github.com/JamesMusembi/IP3/blob/master/image/fig.png" height="250" width ="250">
 
 ## Installation
 
