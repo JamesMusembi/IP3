@@ -14,7 +14,8 @@
 
 ## Description
 <p>This is project is illustrateQUIZZ board for students</p>
-![figma lin](https://www.figma.com/file/Fe9WYIdbuwDDyolJ5CUJeR/quiz?node-id=0%3A1)
+
+![figma link](https://www.figma.com/file/Fe9WYIdbuwDDyolJ5CUJeR/quiz?node-id=0%3A1)
 
 ## Installation
 
